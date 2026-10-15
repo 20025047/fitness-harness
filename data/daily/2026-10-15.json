@@ -1,6 +1,7 @@
 {
   "date": "2026-10-15",
   "weight_kg": null,
+  "steps": 3000,
   "calories_consumed": 1125,
   "macros": {
     "protein_g": 61,
