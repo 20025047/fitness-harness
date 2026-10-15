@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-15",
+  "weight_kg": null,
+  "calories_consumed": 1125,
+  "macros": {
+    "protein_g": 61,
+    "carbs_g": 98,
+    "fat_g": 55
+  },
+  "meals": [
+    {
+      "time": "sáng",
+      "name": "Bánh giò",
+      "items": [
+        {"food": "Bánh giò (ước tính 1 cái ~100g)", "grams": 100, "kcal": 194, "protein_g": 5, "carbs_g": 30, "fat_g": 6}
+      ],
+      "kcal": 194,
+      "protein_g": 5,
+      "carbs_g": 30,
+      "fat_g": 6
+    },
+    {
+      "time": "trưa",
+      "name": "Khoai lang, trứng luộc, chả lụa",
+      "items": [
+        {"food": "Khoai lang luộc (2 củ ~300g)", "grams": 300, "kcal": 260, "protein_g": 5, "carbs_g": 60, "fat_g": 0},
+        {"food": "Trứng luộc (2 quả ~100g)", "grams": 100, "kcal": 155, "protein_g": 13, "carbs_g": 1, "fat_g": 11},
+        {"food": "Chả lụa (1 lạng ~100g)", "grams": 100, "kcal": 226, "protein_g": 14, "carbs_g": 2, "fat_g": 18}
+      ],
+      "kcal": 641,
+      "protein_g": 32,
+      "carbs_g": 63,
+      "fat_g": 29
+    },
+    {
+      "time": "tối",
+      "name": "Sườn heo và rau muống luộc",
+      "items": [
+        {"food": "Sườn heo (1 lạng ~100g, ước tính)", "grams": 100, "kcal": 260, "protein_g": 20, "carbs_g": 0, "fat_g": 20},
+        {"food": "Rau muống luộc (ước chừng 1 người ~150g)", "grams": 150, "kcal": 30, "protein_g": 4, "carbs_g": 5, "fat_g": 0}
+      ],
+      "kcal": 290,
+      "protein_g": 24,
+      "carbs_g": 5,
+      "fat_g": 20
+    }
+  ],
+  "workout": [],
+  "notes": "Khối lượng khoai lang, bánh giò, chả lụa, sườn và rau muống là ước tính. Rau muống tính theo luộc, không dầu; nếu xào thì cộng thêm calo dầu."
+}
