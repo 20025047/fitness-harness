@@ -2,11 +2,11 @@
   "date": "2026-10-15",
   "weight_kg": null,
   "steps": 3000,
-  "calories_consumed": 1125,
+  "calories_consumed": 1575,
   "macros": {
-    "protein_g": 61,
+    "protein_g": 142,
     "carbs_g": 98,
-    "fat_g": 55
+    "fat_g": 67
   },
   "meals": [
     {
@@ -35,17 +35,18 @@
     },
     {
       "time": "tối",
-      "name": "Sườn heo và rau muống luộc",
+      "name": "Sườn bé, thịt nạc luộc và rau muống",
       "items": [
-        {"food": "Sườn heo (1 lạng ~100g, ước tính)", "grams": 100, "kcal": 260, "protein_g": 20, "carbs_g": 0, "fat_g": 20},
+        {"food": "Sườn heo bé (5 miếng, ước tính ~100g)", "grams": 100, "kcal": 260, "protein_g": 20, "carbs_g": 0, "fat_g": 20},
+        {"food": "Thịt lợn nạc luộc (300g)", "grams": 300, "kcal": 450, "protein_g": 81, "carbs_g": 0, "fat_g": 12},
         {"food": "Rau muống luộc (ước chừng 1 người ~150g)", "grams": 150, "kcal": 30, "protein_g": 4, "carbs_g": 5, "fat_g": 0}
       ],
-      "kcal": 290,
-      "protein_g": 24,
+      "kcal": 740,
+      "protein_g": 105,
       "carbs_g": 5,
-      "fat_g": 20
+      "fat_g": 32
     }
   ],
   "workout": [],
-  "notes": "Khối lượng khoai lang, bánh giò, chả lụa, sườn và rau muống là ước tính. Rau muống tính theo luộc, không dầu; nếu xào thì cộng thêm calo dầu."
+  "notes": "Khối lượng khoai lang, bánh giò, chả lụa, sườn bé, thịt nạc và rau muống là ước tính. Rau muống tính theo luộc, không dầu. Đã thay thế bữa tối trước đó (sườn 1 lạng + rau muống)."
 }

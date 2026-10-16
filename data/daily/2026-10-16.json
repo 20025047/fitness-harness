@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-16",
+  "weight_kg": null,
+  "steps": null,
+  "calories_consumed": 250,
+  "macros": {
+    "protein_g": 22,
+    "carbs_g": 30,
+    "fat_g": 6
+  },
+  "meals": [
+    {
+      "time": "sáng",
+      "name": "Bánh đa cá rô",
+      "items": [
+        {"food": "Bánh đa (1 tô, ước tính ~100g đã nấu)", "grams": 100, "kcal": 110, "protein_g": 3, "carbs_g": 25, "fat_g": 1},
+        {"food": "Cá rô (ước tính ~100g)", "grams": 100, "kcal": 110, "protein_g": 17, "carbs_g": 0, "fat_g": 4},
+        {"food": "Nước dùng và rau (ước tính)", "grams": 0, "kcal": 30, "protein_g": 2, "carbs_g": 5, "fat_g": 1}
+      ],
+      "kcal": 250,
+      "protein_g": 22,
+      "carbs_g": 30,
+      "fat_g": 6
+    }
+  ],
+  "workout": [],
+  "notes": "Bữa sáng bánh đa cá rô là ước tính cho 1 tô vừa; nếu cá rô chiên hoặc nước dùng nhiều mỡ thì fat thực tế sẽ cao hơn."
+}
