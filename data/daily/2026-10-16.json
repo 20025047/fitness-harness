@@ -2,11 +2,11 @@
   "date": "2026-10-16",
   "weight_kg": null,
   "steps": null,
-  "calories_consumed": 250,
+  "calories_consumed": 1045,
   "macros": {
-    "protein_g": 22,
-    "carbs_g": 30,
-    "fat_g": 6
+    "protein_g": 95,
+    "carbs_g": 70,
+    "fat_g": 44
   },
   "meals": [
     {
@@ -21,8 +21,34 @@
       "protein_g": 22,
       "carbs_g": 30,
       "fat_g": 6
+    },
+    {
+      "time": "trưa",
+      "name": "Nửa bát cơm, gà, thịt băm và rau luộc",
+      "items": [
+        {"food": "Cơm trắng (nửa bát ~100g đã nấu)", "grams": 100, "kcal": 130, "protein_g": 3, "carbs_g": 28, "fat_g": 0},
+        {"food": "Gà luộc (ước tính ~100g)", "grams": 100, "kcal": 165, "protein_g": 31, "carbs_g": 0, "fat_g": 4},
+        {"food": "Thịt lợn băm (1 chút ~30g)", "grams": 30, "kcal": 45, "protein_g": 8, "carbs_g": 0, "fat_g": 2},
+        {"food": "Rau luộc (ước tính ~150g)", "grams": 150, "kcal": 35, "protein_g": 2, "carbs_g": 5, "fat_g": 0}
+      ],
+      "kcal": 375,
+      "protein_g": 44,
+      "carbs_g": 33,
+      "fat_g": 6
+    },
+    {
+      "time": "tối",
+      "name": "Lươn xào và mướp luộc",
+      "items": [
+        {"food": "Lươn xào (ước tính ~150g, kèm ~1 muỗng canh dầu)", "grams": 150, "kcal": 400, "protein_g": 27, "carbs_g": 3, "fat_g": 32},
+        {"food": "Mướp luộc (ước tính ~150g)", "grams": 150, "kcal": 20, "protein_g": 1, "carbs_g": 4, "fat_g": 0}
+      ],
+      "kcal": 420,
+      "protein_g": 28,
+      "carbs_g": 7,
+      "fat_g": 32
     }
   ],
   "workout": [],
-  "notes": "Bữa sáng bánh đa cá rô là ước tính cho 1 tô vừa; nếu cá rô chiên hoặc nước dùng nhiều mỡ thì fat thực tế sẽ cao hơn."
+  "notes": "Các khối lượng và thành phần đều là ước tính. Lươn xào tính theo khoảng 1 muỗng canh dầu; nếu xào nhiều dầu hoặc mỡ thì fat sẽ cao hơn. Mướp luộc không dầu. Bữa sáng bánh đa cá rô là ước tính cho 1 tô vừa."
 }
