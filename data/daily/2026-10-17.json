@@ -1,0 +1,58 @@
+{
+  "date": "2026-10-17",
+  "weight_kg": null,
+  "steps": null,
+  "calories_consumed": 1390,
+  "macros": {
+    "protein_g": 133,
+    "carbs_g": 119,
+    "fat_g": 34
+  },
+  "meals": [
+    {
+      "time": "sáng",
+      "name": "Bún riêu",
+      "items": [
+        {"food": "Bún tươi (1 tô ~150g đã nấu)", "grams": 150, "kcal": 165, "protein_g": 2, "carbs_g": 36, "fat_g": 1},
+        {"food": "Riêu cua (ước tính ~100g)", "grams": 100, "kcal": 120, "protein_g": 12, "carbs_g": 6, "fat_g": 5},
+        {"food": "Đậu phụ chiên (ước tính ~50g)", "grams": 50, "kcal": 40, "protein_g": 4, "carbs_g": 1, "fat_g": 2},
+        {"food": "Rau, giá và nước dùng (ước tính)", "grams": 0, "kcal": 70, "protein_g": 3, "carbs_g": 4, "fat_g": 2}
+      ],
+      "kcal": 395,
+      "protein_g": 21,
+      "carbs_g": 47,
+      "fat_g": 10
+    },
+    {
+      "time": "trưa",
+      "name": "Bánh tráng cuốn thịt heo, dê hấp",
+      "items": [
+        {"food": "Thịt heo luộc nạc (ước tính ~100g)", "grams": 100, "kcal": 150, "protein_g": 27, "carbs_g": 0, "fat_g": 4},
+        {"food": "Bánh tráng (2 cái ~44g)", "grams": 44, "kcal": 140, "protein_g": 3, "carbs_g": 32, "fat_g": 1},
+        {"food": "Bún tươi (ước tính ~50g đã nấu)", "grams": 50, "kcal": 55, "protein_g": 1, "carbs_g": 12, "fat_g": 0},
+        {"food": "Rau sống và nước chấm (ước tính)", "grams": 0, "kcal": 55, "protein_g": 2, "carbs_g": 10, "fat_g": 0},
+        {"food": "Dê hấp (ước tính ~150g)", "grams": 150, "kcal": 255, "protein_g": 39, "carbs_g": 0, "fat_g": 9}
+      ],
+      "kcal": 655,
+      "protein_g": 72,
+      "carbs_g": 54,
+      "fat_g": 14
+    },
+    {
+      "time": "tối",
+      "name": "Lẩu ếch",
+      "items": [
+        {"food": "Thịt ếch (ước tính ~150g)", "grams": 150, "kcal": 120, "protein_g": 25, "carbs_g": 0, "fat_g": 2},
+        {"food": "Rau và nấm (ước tính ~200g)", "grams": 200, "kcal": 60, "protein_g": 4, "carbs_g": 10, "fat_g": 0},
+        {"food": "Đậu phụ (ước tính ~100g)", "grams": 100, "kcal": 80, "protein_g": 9, "carbs_g": 2, "fat_g": 4},
+        {"food": "Nước lẩu (ước tính)", "grams": 0, "kcal": 80, "protein_g": 2, "carbs_g": 6, "fat_g": 4}
+      ],
+      "kcal": 340,
+      "protein_g": 40,
+      "carbs_g": 18,
+      "fat_g": 10
+    }
+  ],
+  "workout": [],
+  "notes": "Các khối lượng và thành phần đều là ước tính. Dê hấp tính 150g, thịt heo trong bánh tráng tính là thịt nạc luộc, lẩu ếch tính nước lẩu ít dầu. Dê và ếch có purine trung bình đến cao, nên hạn chế lặp lại trong tuần khi đang theo dõi acid uric."
+}
