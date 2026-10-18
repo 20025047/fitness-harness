@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-18",
+  "weight_kg": null,
+  "steps": null,
+  "calories_consumed": 1607,
+  "macros": {
+    "protein_g": 97,
+    "carbs_g": 148,
+    "fat_g": 65
+  },
+  "meals": [
+    {
+      "time": "sáng",
+      "name": "Bún mọc",
+      "items": [
+        {"food": "Bún tươi (1 tô ~150g đã nấu)", "grams": 150, "kcal": 165, "protein_g": 2, "carbs_g": 36, "fat_g": 1},
+        {"food": "Giò thủ/chả lụa thịt heo (ước tính ~60g)", "grams": 60, "kcal": 136, "protein_g": 8, "carbs_g": 1, "fat_g": 11},
+        {"food": "Nước dùng mọc, nấm mèo, miến (ước tính)", "grams": 0, "kcal": 80, "protein_g": 4, "carbs_g": 6, "fat_g": 3},
+        {"food": "Rau thơm (ước tính)", "grams": 20, "kcal": 20, "protein_g": 1, "carbs_g": 3, "fat_g": 0}
+      ],
+      "kcal": 401,
+      "protein_g": 15,
+      "carbs_g": 46,
+      "fat_g": 15
+    },
+    {
+      "time": "trưa",
+      "name": "Buffet chay",
+      "items": [
+        {"food": "Cơm trắng (ước tính ~150g đã nấu)", "grams": 150, "kcal": 195, "protein_g": 4, "carbs_g": 43, "fat_g": 1},
+        {"food": "Đậu hũ chiên/kho (ước tính ~100g)", "grams": 100, "kcal": 150, "protein_g": 10, "carbs_g": 5, "fat_g": 10},
+        {"food": "Rau xào dầu (ước tính ~150g)", "grams": 150, "kcal": 100, "protein_g": 3, "carbs_g": 8, "fat_g": 7},
+        {"food": "Tráng miệng (chè/bánh, ước tính 1 phần)", "grams": 0, "kcal": 150, "protein_g": 2, "carbs_g": 30, "fat_g": 4}
+      ],
+      "kcal": 595,
+      "protein_g": 19,
+      "carbs_g": 86,
+      "fat_g": 22
+    },
+    {
+      "time": "tối",
+      "name": "Mực xào cà chua, gà hầm thuốc bắc, rau muống luộc",
+      "items": [
+        {"food": "Mực xào cà chua (mực ~150g, cà chua ~100g, ~1 muỗng canh dầu)", "grams": 250, "kcal": 276, "protein_g": 25, "carbs_g": 6, "fat_g": 16},
+        {"food": "Gà hầm thuốc bắc (gà ~150g bỏ da, nước hầm)", "grams": 150, "kcal": 300, "protein_g": 35, "carbs_g": 5, "fat_g": 12},
+        {"food": "Rau muống luộc (ước tính ~150g)", "grams": 150, "kcal": 35, "protein_g": 2, "carbs_g": 5, "fat_g": 0}
+      ],
+      "kcal": 611,
+      "protein_g": 63,
+      "carbs_g": 16,
+      "fat_g": 28
+    }
+  ],
+  "workout": [],
+  "notes": "Các khối lượng và thành phần đều là ước tính. Buffet chay tính theo 1 đĩa với đậu hũ chiên và rau xào dầu. Mực là nguồn purine cao, nên hạn chế với acid uric. Tổng fat trong ngày vượt mục tiêu 45g khoảng 20g."
+}
