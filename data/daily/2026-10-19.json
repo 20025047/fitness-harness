@@ -2,11 +2,11 @@
   "date": "2026-10-19",
   "weight_kg": null,
   "steps": null,
-  "calories_consumed": 522,
+  "calories_consumed": 837,
   "macros": {
-    "protein_g": 21,
-    "carbs_g": 71,
-    "fat_g": 17
+    "protein_g": 57,
+    "carbs_g": 99,
+    "fat_g": 22
   },
   "meals": [
     {
@@ -31,8 +31,21 @@
       "protein_g": 16,
       "carbs_g": 41,
       "fat_g": 11
+    },
+    {
+      "time": "tối",
+      "name": "Phở gà lườn",
+      "items": [
+        {"food": "Bánh phở (1 bát ~100g đã nấu)", "grams": 100, "kcal": 110, "protein_g": 2, "carbs_g": 25, "fat_g": 0},
+        {"food": "Gà lườn luộc (ước tính ~100g)", "grams": 100, "kcal": 165, "protein_g": 31, "carbs_g": 0, "fat_g": 4},
+        {"food": "Nước dùng, hành và rau thơm (ước tính)", "grams": 0, "kcal": 40, "protein_g": 3, "carbs_g": 3, "fat_g": 1}
+      ],
+      "kcal": 315,
+      "protein_g": 36,
+      "carbs_g": 28,
+      "fat_g": 5
     }
   ],
   "workout": [],
-  "notes": "Các khối lượng và thành phần đều là ước tính. Bữa tối chưa ghi."
+  "notes": "Các khối lượng và thành phần đều là ước tính. Bát phở tính nước dùng ít mỡ, không tính thêm bánh quẩy hoặc nước mắm đường."
 }
